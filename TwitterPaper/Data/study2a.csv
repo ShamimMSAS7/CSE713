@@ -1,0 +1,203 @@
+﻿StartDate,EndDate,Progress,Duration (in seconds),ResponseId,consent,english_check,english_check_5_TEXT,age,gender_raw,gender ,ethnicity,ideology ,engage1,engage2,engage3,dismiss1,dismiss2,dismiss3,gun_stance,climate_stance,vax_race_stance,tax_stance,vaccine_stance,extreme_stance,rating explanation,quality_check ,comments,stimuli,role
+11/24/21 16:57,11/24/21 16:59,100,132,R_1DZRcF6XDoDD4QU,1,1,,21,Male,m,asian,3,53,63,65,84,54,56,2,2,1,2,2,1,n/a,1,,vignette,citizen
+11/24/21 16:57,11/24/21 17:06,100,555,R_2alUbIw0vKaG7yQ,1,1,,43,Female,f,white,5,100,80,90,25,0,30,2,2,1,1,2,1,,1,,tweet,senator
+11/24/21 17:07,11/24/21 17:10,100,176,R_Pv1oN3DNEZB8p4B,1,1,,26,female,f,white,1,59,30,59,71,60,71,2,2,1,2,2,1,,1,,tweet,citizen
+11/24/21 17:08,11/24/21 17:12,100,212,R_2fDsCTbYgsdkTys,1,1,,27,female,f,asian,2,65,63,76,63,78,53,2,2,2,2,2,1,,1,,vignette,senator
+11/24/21 17:10,11/24/21 17:13,100,181,R_2BbvJM1l6Gx9GZ7,1,1,,30,Female,f,white,2,46,78,52,53,82,47,2,2,2,2,2,1,,1,,tweet,senator
+11/24/21 17:10,11/24/21 17:14,100,242,R_p3Q04cEryvO2HLP,1,1,,20,female,f,white,2,91,87,82,72,100,70,2,2,1,2,2,1,,1,,vignette,citizen
+11/24/21 17:15,11/24/21 17:18,100,202,R_78MnJoJ8vrbi3Rf,1,1,,43,Male,m,black,2,51,40,39,62,71,62,2,2,2,2,2,1,,1,,tweet,senator
+11/24/21 17:25,11/24/21 17:29,100,226,R_cBZn8J7Poi7eXWV,1,1,,62,Male,m,white,1,100,90,100,100,100,71,2,2,2,2,2,1,,1,,vignette,senator
+11/24/21 17:22,11/24/21 17:29,100,444,R_2VvxFoEdpVg8WfI,1,1,,27,Female,f,white,4,100,25,100,40,50,30,2,2,2,2,2,1,I found this very interesting - some questions were difficult to answer for someone like me who is in the middle of the political spectrum. ,1,,vignette,citizen
+11/24/21 17:27,11/24/21 17:32,100,265,R_3szZh7uegYtpTd0,1,1,,26,Female,f,asian,3,93,80,100,95,82,75,2,2,2,2,2,1,,1,,tweet,citizen
+11/24/21 17:30,11/24/21 17:35,100,308,R_2zGahchhnvcxIcI,1,1,,31,Female,f,white,2,100,93,100,95,100,71,2,2,1,2,2,1,,1,,vignette,citizen
+11/24/21 17:35,11/24/21 17:38,100,194,R_OuKSrenWOITYBdD,1,1,,34,female,f,white,2,100,99,100,90,100,100,2,2,2,2,2,1,,1,,tweet,senator
+11/24/21 17:36,11/24/21 17:39,100,140,R_6Y9CmJWWTARzZ8l,1,1,,37,Female,f,white,3,73,66,67,49,41,39,2,2,2,1,2,2,,1,,vignette,citizen
+11/24/21 17:39,11/24/21 17:41,100,117,R_2al7CiuLfK3kJm6,1,1,,49,female,f,white,5,82,84,56,76,82,57,1,1,1,1,2,1,,1,,tweet,senator
+11/24/21 17:39,11/24/21 17:41,100,94,R_3sofWr9XnU9BLVm,1,1,,39,male,m,white,4,56,49,32,43,57,49,1,2,1,2,2,1,,1,,vignette,citizen
+11/24/21 17:38,11/24/21 17:41,100,171,R_25MV94UUL5VvtPB,1,1,,22,Female,f,white,1,20,40,70,93,36,50,2,2,2,2,2,1,,1,,tweet,citizen
+11/24/21 17:37,11/24/21 17:41,100,245,R_3saWiNzDFt5RVsC,1,1,,25,Male,m,asian,3,60,50,60,70,70,50,2,2,2,2,2,1,,1,,vignette,senator
+11/24/21 17:34,11/24/21 17:41,100,428,R_1dpg7JIRhONIWgd,1,1,,23,female,f,white,2,89,67,87,79,93,68,2,2,1,2,2,2,,1,,tweet,senator
+11/24/21 17:39,11/24/21 17:42,100,189,R_27Wp45qCbksE4Vl,1,1,,60,Female,f,white,1,100,100,90,100,100,75,2,2,2,2,2,1,,1,,vignette,citizen
+11/24/21 17:37,11/24/21 17:44,100,387,R_ebQtAmexdsq0ZYl,1,1,,20,male,m,asian,3,92,87,81,61,20,0,1,2,1,1,2,1,,1,,vignette,citizen
+11/24/21 17:37,11/24/21 17:44,100,449,R_1GZJbcE1JJZLsMi,1,1,,41,female,f,white,2,82,81,60,79,77,75,2,2,1,2,2,1,,1,,tweet,citizen
+11/24/21 17:41,11/24/21 17:45,100,234,R_1gto1rRAmbd9kjg,1,1,,54,female,f,white,2,82,76,92,76,88,77,2,2,2,2,2,1,,1,,vignette,senator
+11/24/21 17:45,11/24/21 17:47,100,91,R_r6LvoDhCcWy3Mop,1,1,,31,male,m,white,3,60,69,63,62,63,39,2,2,2,2,2,1,,1,very controversial,vignette,senator
+11/24/21 17:45,11/24/21 17:47,100,110,R_oYrhQgkY7HtvWGB,1,1,,29,Male,m,black,1,75,80,97,89,56,50,2,2,1,2,2,1,,1,,tweet,citizen
+11/24/21 17:46,11/24/21 17:48,100,150,R_O10s8oC19xIlFS1,1,1,,25,Male,m,asian,2,35,40,65,55,65,65,2,2,1,2,2,1,,1,,vignette,citizen
+11/24/21 17:45,11/24/21 17:49,100,273,R_5iJ1cWXdOw438K5,1,1,,48,female,f,white,4,85,76,94,39,38,40,2,2,2,1,2,1,,1,,vignette,citizen
+11/24/21 17:36,11/24/21 17:49,100,820,R_1d7fJYifwvvIQUi,1,1,,45,Female,f,white,4,50,50,50,50,50,50,1,1,2,1,1,1,Anyone who believes in the two party system is crazy.  People need to wake up.  Thank you the survey was fine!,1,,vignette,senator
+11/24/21 17:47,11/24/21 17:49,100,147,R_2ZVSttMLWsThpDq,1,1,,37,Male,m,white,2,80,83,79,88,84,75,2,2,1,2,2,1,,1,,tweet,citizen
+11/24/21 17:47,11/24/21 17:50,100,196,R_DjK3NnjEMjDcfLz,1,1,,20,Male,m,white,3,97,89,90,67,95,78,2,2,1,,2,1,,1,,tweet,senator
+11/24/21 17:39,11/24/21 17:50,100,681,R_31QSScHr8JEedsG,1,1,,23,Female,f,white,3,70,78,70,40,65,40,2,2,1,2,2,1,,1,,tweet,senator
+11/24/21 17:48,11/24/21 17:50,100,159,R_24kk1c48FMpLpse,1,1,,29,Genderqueer,Genderqueer,white,2,56,50,55,73,89,25,2,2,2,2,2,1,I didn't know what you meant by the background check law. It didn't specify that it was background checks for guns.,1,,vignette,citizen
+11/24/21 17:48,11/24/21 17:50,100,115,R_1PZVQ8qp7oAVbk7,1,1,,25,Male,m,white,1,100,100,100,92,100,100,2,2,1,2,2,1,,1,,tweet,citizen
+11/24/21 17:49,11/24/21 17:52,100,194,R_1qalW89wwxNI4fD,1,1,,22,female,f,white,2,49,46,46,47,53,56,2,2,1,2,2,1,,1,,tweet,citizen
+11/24/21 17:48,11/24/21 17:53,100,300,R_1ITa7IY6EkmDTVL,1,1,,57,Female,f,asian,3,60,60,60,80,81,80,2,2,1,2,2,1,,1,,tweet,senator
+11/24/21 17:51,11/24/21 17:53,100,76,R_1rDpF0YQrEqmTDE,1,3,,,,,,,,,,,,,,,,,,,,,,,
+11/24/21 17:49,11/24/21 17:53,100,245,R_vlybw2c7rbg6TbX,1,1,,27,female,f,white,2,85,46,81,100,100,57,2,2,2,2,2,1,I feel like some of the actions described in the text were a little vague and it was a bit harder to place how warm i felt towards them on the scale. I had to do some serious thinking about it. ,1,,vignette,senator
+11/24/21 17:39,11/24/21 17:54,100,936,R_2YhXwsqSMvXcVCa,1,1,,29,Female,f,white,2,60,70,70,60,80,70,2,2,1,2,2,1,None,1,None,tweet,senator
+11/24/21 17:41,11/24/21 17:55,100,804,R_2SDlEI5UmAzxvd2,1,1,,57,female,f,white,2,91,87,93,83,95,85,2,2,2,2,2,1,,1,,tweet,citizen
+11/24/21 17:43,11/24/21 17:55,100,685,R_2TTAj7WvIrE6hJO,1,1,,26,Female,f,white,2,50,56,42,76,80,27,2,2,1,2,2,1,,1,,tweet,senator
+11/24/21 17:46,11/24/21 17:55,100,544,R_2YtdWMFjWb6A6vE,1,1,,31,Male,m,"asian, white",2,80,80,80,80,70,20,2,2,1,2,2,1,,1,,vignette,senator
+11/24/21 17:54,11/24/21 17:57,100,168,R_OiIZ2IwNte2ihLX,1,1,,32,male,m,white,2,100,100,100,59,71,100,2,2,2,2,2,2,,1,,tweet,citizen
+11/24/21 17:53,11/24/21 17:57,100,252,R_2y3eW3a65VsQrnH,1,1,,49,female,f,white,6,50,78,50,81,100,60,1,1,1,1,1,1,,1,,vignette,senator
+11/24/21 17:55,11/24/21 17:58,100,181,R_2aFBIjPzVxtvuKa,1,1,,26,female,f,white,1,100,75,55,100,100,50,2,2,2,2,2,1,NA,1,NA,tweet,senator
+11/24/21 17:51,11/24/21 17:58,100,467,R_3O2eQey6ov4WlDQ,1,1,,39,male,m,white,5,93,94,81,96,97,97,1,2,1,1,2,1,,1,,tweet,citizen
+11/24/21 17:56,11/24/21 17:58,100,156,R_aaEGh15vUYBZpzH,1,1,,26,Female,f,white,3,71,65,57,34,42,24,1,2,1,1,2,2,,1,,tweet,citizen
+11/24/21 17:54,11/24/21 17:58,100,274,R_CkI7AhgRWyS5byh,1,1,,22,non binary,nonbinary,white,1,65,40,60,100,95,45,2,2,2,2,2,1,,1,,vignette,senator
+11/24/21 17:53,11/24/21 17:59,100,356,R_9uUPTJA3yMEijC1,1,1,,21,Female,f,white,3,68,75,68,55,65,26,2,2,1,2,2,1,,1,,vignette,senator
+11/24/21 17:56,11/24/21 17:59,100,213,R_7VXmYKadFpBT58R,1,1,,21,Cis-Female,f,black,1,50,59,61,100,100,71,2,2,2,2,2,1,,1,,tweet,senator
+11/24/21 17:56,11/24/21 17:59,100,217,R_1QbV9JZIkvbtMVs,1,1,,39,female,f,white,4,60,75,100,60,85,100,1,2,1,1,2,1,,1,,vignette,citizen
+11/24/21 17:58,11/24/21 18:00,100,152,R_322qSIKyFUFZLr9,1,1,,43,male,m,white,3,81,50,60,45,71,94,1,2,1,2,2,1,,1,,tweet,citizen
+11/24/21 18:00,11/24/21 18:00,100,27,R_3Gp7Nqr2Z5UIDBe,1,2,,,,,,,,,,,,,,,,,,,,,,,
+11/24/21 17:57,11/24/21 18:01,100,235,R_2SqW44BK1KAmNlj,1,1,,33,male,m,white,3,83,85,77,59,80,35,2,2,2,2,2,1,I enjoyed reading the tweets,1,,tweet,senator
+11/24/21 17:58,11/24/21 18:01,100,169,R_12njVvvbvRaXilL,1,1,,21,Male,m,white,2,85,65,85,60,80,60,2,2,2,2,2,1,I enjoyed reading the tweets and recording my political beliefs.,1,Thanks for the opportunity.,tweet,citizen
+11/24/21 17:58,11/24/21 18:01,100,203,R_x9FgNe8cLMET0wF,1,1,,30,Female,f,white,3,0,0,100,0,0,0,1,1,1,1,2,2,"No one it seems, can stop being totally judgmental. It's hard to find people with integrity anymore. ",1,,vignette,citizen
+11/24/21 17:55,11/24/21 18:01,100,413,R_2fiEmUxndS88J8h,1,1,,68,Female,f,white,4,72,54,64,70,63,20,1,2,1,1,2,1,,1,,tweet,citizen
+11/24/21 17:55,11/24/21 18:02,100,367,R_1dvriSkewDBHVaO,1,1,,40,Female,f,white,1,100,9,50,100,72,20,2,2,1,2,2,1,N/A,1,N/A,vignette,citizen
+11/24/21 17:58,11/24/21 18:02,100,234,R_1ob6pDI0ciCLd48,1,1,,32,Female,f,white,1,80,80,75,90,85,80,2,2,2,2,2,1,,1,,vignette,senator
+11/24/21 17:53,11/24/21 18:02,100,534,R_1eQRo4XFWKIV9T5,1,1,,40,Male,m,white,4,52,37,55,51,69,44,2,2,1,2,2,1,,1,,vignette,senator
+11/24/21 18:00,11/24/21 18:03,100,169,R_3MKmXRv9TzbY8Sx,1,1,,20,Female,f,"hispanic, white",2,87,79,89,69,78,95,1,2,1,1,2,1,,1,,tweet,citizen
+11/24/21 18:00,11/24/21 18:03,100,181,R_8vlCtGQw1MtxSzn,1,1,,25,Female,f,asian,3,60,60,60,50,50,45,2,2,1,2,2,1,,1,,tweet,citizen
+11/24/21 17:57,11/24/21 18:03,100,415,R_1hYgZbFla9xm1J5,1,1,,66,Male,m,white,1,80,70,70,90,90,85,2,2,1,2,2,1,,1,"Bipartisanship is a great idea, and it used to work, but the Republicans have gone so far to the right that it is now just a trap for Democrats.",vignette,senator
+11/24/21 18:02,11/24/21 18:04,100,109,R_1OH4Bp8n1LvA0CG,1,1,,21,Male,m,asian,2,50,50,71,100,100,70,2,2,1,2,2,1,,1,,vignette,senator
+11/24/21 17:58,11/24/21 18:04,100,337,R_2q3HRmVOvnycH0c,1,1,,60,female,f,"hispanic, white",2,90,91,92,85,85,75,2,2,1,2,2,1,Interesting survey. Good luck with your research.,1,,vignette,senator
+11/24/21 17:54,11/24/21 18:04,100,605,R_3rM3brB4RrawKtX,1,1,,24,Male,m,white,2,70,75,74,33,81,74,1,2,2,2,2,2,,1,,vignette,senator
+11/24/21 18:00,11/24/21 18:04,100,228,R_31vGk3xXLVlkZ9b,1,1,,23,Female,f,asian,2,81,50,90,90,80,50,2,2,1,2,2,1,N/A,1,N/A,vignette,citizen
+11/24/21 17:58,11/24/21 18:05,100,388,R_2xz420iUwCJY0Tg,1,1,,20,female,f,white,4,50,19,81,50,0,10,1,1,1,1,2,1,I am actually a moderate with no leanings. I was previously more left leaning until the left went too far. ,1,,tweet,citizen
+11/24/21 18:01,11/24/21 18:05,100,251,R_2bCeokkkbQAe8Kt,1,1,,45,Male,m,white,6,40,50,40,90,90,90,1,1,1,1,1,1,,1,,tweet,senator
+11/24/21 18:04,11/24/21 18:05,100,109,R_svWSeOm7aaWwVd7,1,1,,21,female,f,asian,2,77,85,100,83,100,80,2,2,2,2,2,1,,1,,vignette,senator
+11/24/21 18:04,11/24/21 18:06,100,159,R_tQH2BCBkq3Jwptn,1,1,,21,Female,f,asian,3,63,90,82,58,66,52,1,2,2,2,2,1,,1,,tweet,senator
+11/24/21 17:37,11/24/21 18:07,100,1803,R_qQ78YLvzfENvp2V,1,1,,38,male,m,white,1,80,100,30,100,69,40,2,2,2,2,2,1,nothing,1,,vignette,senator
+11/24/21 18:02,11/24/21 18:07,100,267,R_28B6udLxszC9s2Y,1,1,,43,female,f,white,3,78,83,86,53,64,38,2,2,1,2,2,2,,1,,tweet,citizen
+11/24/21 18:00,11/24/21 18:07,100,422,R_39pzuWiUXGF3woF,1,1,,45,female,f,white,2,94,90,94,75,80,79,2,2,2,2,2,1,,1,,vignette,senator
+11/24/21 18:01,11/24/21 18:07,100,371,R_2DOZ1dD8bp6DhsW,1,1,,64,Female,f,white,5,90,90,95,90,85,100,1,2,1,1,2,1,I didn't dislike anything. ,1,,vignette,senator
+11/24/21 18:03,11/24/21 18:09,100,367,R_3Oq3iyXP8Cjk6Nq,1,1,,53,male,m,white,1,82,25,38,89,91,72,2,2,2,2,2,1,,1,,vignette,citizen
+11/24/21 18:03,11/24/21 18:09,100,328,R_1pDzkHjlGt2cM5W,1,1,,27,male,m,white,2,100,100,100,45,80,100,2,2,1,2,2,1,,1,,tweet,citizen
+11/24/21 18:05,11/24/21 18:09,100,216,R_wXkXHgfZlke471n,1,1,,78,male,m,white,5,49,60,82,51,92,75,1,1,1,1,2,1,,1,,vignette,senator
+11/24/21 18:07,11/24/21 18:09,100,118,R_1o0ziPYib2GJduo,1,1,,50,male,m,white,1,50,50,50,55,50,50,2,2,2,2,2,1,,1,,vignette,citizen
+11/24/21 18:00,11/24/21 18:09,100,577,R_3esNuFK46evD9XU,1,1,,24,female,f,white,2,78,51,70,65,94,50,2,2,2,2,2,1,,1,,tweet,senator
+11/24/21 18:07,11/24/21 18:09,100,154,R_TwnA3jrEwwHx7rz,1,1,,22,Male,m,"hispanic, white",3,79,100,88,65,56,40,2,2,1,2,2,1,,1,,vignette,senator
+11/24/21 18:08,11/24/21 18:10,100,136,R_1F50k45ZoUI4YvF,1,1,,20,Female,f,asian,3,87,92,74,28,62,44,2,2,1,2,2,1,,1,,tweet,senator
+11/24/21 18:07,11/24/21 18:10,100,188,R_sX1FFSo2vdyZCHn,1,1,,30,Female,f,white,2,70,85,55,65,100,50,2,2,1,2,2,1,,1,,vignette,senator
+11/24/21 17:56,11/24/21 18:11,100,863,R_74A78RvDGVwApyh,1,1,,19,female,f,asian,2,50,60,80,80,50,50,2,2,2,2,2,1,all democrats,1,,tweet,citizen
+11/24/21 18:07,11/24/21 18:11,100,254,R_qOrX8Lqy2Zcs0E1,1,1,,30,Female,f,white,1,94,90,92,82,91,76,2,2,1,2,2,1,,1,,tweet,citizen
+11/24/21 17:58,11/24/21 18:12,100,867,R_2saQw1p57oEUBLo,1,1,,27,male,m,black,3,73,69,79,76,63,50,2,2,2,2,2,1,,1,,tweet,citizen
+11/24/21 18:09,11/24/21 18:12,100,202,R_3sKrliPO1QF0DTP,1,1,,37,Female,f,white,1,71,82,83,72,100,38,2,2,2,2,2,1,,1,,tweet,senator
+11/24/21 18:06,11/24/21 18:13,100,452,R_27dlvSaBpSyedBj,1,1,,30,male,m,white,1,55,50,55,65,70,65,2,2,1,2,2,1,,1,,tweet,citizen
+11/24/21 18:10,11/24/21 18:14,100,257,R_22lT7seFRcTNqrS,1,1,,44,Female,f,white,2,100,100,100,100,95,95,2,2,1,2,2,1,,1,,tweet,citizen
+11/24/21 18:11,11/24/21 18:14,100,193,R_22Lfnxz4W45rrtY,1,1,,32,Gender-fluid,Gender-fluid,white,1,56,100,38,100,100,2,2,2,2,2,2,1,,1,,vignette,senator
+11/24/21 18:12,11/24/21 18:14,100,123,R_2z5yo9rjBaj9qIy,1,1,,21,Male,m,hispanic,4,51,63,85,100,97,93,1,2,1,1,2,1,,1,,vignette,citizen
+11/24/21 18:12,11/24/21 18:15,100,195,R_1k05Rz1R7Y0yCkM,1,1,,22,Female,f,white,4,45,80,50,91,30,100,1,1,1,1,2,1,"I liked reading the tweets, as I thought they were entertaining. ",1,No additional comments. ,tweet,senator
+11/24/21 18:03,11/24/21 18:15,100,705,R_9yFFKAwPNy9mI1z,1,1,,36,female ,f,black,1,49,50,67,80,71,67,1,2,1,2,2,2,,1,,tweet,citizen
+11/24/21 18:07,11/24/21 18:15,100,504,R_3MJTr9BT99zgLSv,1,1,,22,Male,m,white,2,80,75,54,45,50,60,1,2,1,2,2,1,,1,,tweet,citizen
+11/24/21 18:10,11/24/21 18:16,100,315,R_aYoy55mpa31M4BX,1,1,,45,Male,m,asian,1,100,100,100,100,100,77,2,2,1,2,2,1,,1,,vignette,senator
+11/24/21 18:11,11/24/21 18:16,100,298,R_qFnCSsHUaiGCApz,1,1,,66,male,m,white,6,4,30,48,69,100,100,1,1,1,1,1,1,we need to defeat the scumb ag democrats who hate america and love criminals,1,scumbag democrats hate america,vignette,citizen
+11/24/21 18:11,11/24/21 18:16,100,284,R_3p5xI5SGAGHDgYT,1,1,,51,male,m,white,2,80,85,70,90,97,75,2,2,2,2,2,1,,1,,tweet,senator
+11/24/21 18:14,11/24/21 18:16,100,152,R_3nSL187MqP9xi8B,1,1,,35,male,m,white,5,82,92,24,83,89,81,1,2,1,1,1,1,,1,,vignette,citizen
+11/24/21 18:09,11/24/21 18:18,100,518,R_2dT4Jh1ErjOEHlk,1,1,,42,Female,f,white,2,80,95,80,90,90,70,2,2,2,2,2,1,Thanks for this opportunity - no typos noted.,1,Thanks again!,vignette,citizen
+11/24/21 18:11,11/24/21 18:18,100,427,R_3etBQzhdJuFTHl0,1,1,,20,female,f,white,2,55,70,71,70,50,52,2,2,1,1,2,1,,1,,tweet,citizen
+11/24/21 18:15,11/24/21 18:19,100,242,R_V2VT7NVihiqBpHH,1,1,,56,Female,f,asian,2,81,92,92,93,94,92,2,2,2,2,2,1,I thought it was an interesting survey. ,1,,vignette,senator
+11/24/21 18:16,11/24/21 18:19,100,187,R_2eVlaGcoEP2sfr5,1,1,,31,nonbinary,nonbinary,"white, middle eastern",1,70,80,80,100,80,90,2,2,2,2,2,1,,1,,tweet,citizen
+11/24/21 18:16,11/24/21 18:19,100,198,R_yBHGsgSPY0XCc5b,1,1,,31,Male,m,"hispanic, white, Native American",1,1,5,18,12,100,19,2,2,2,2,2,1,"Seemed like only one wasn't about ""coming together"".",1,,tweet,senator
+11/24/21 18:14,11/24/21 18:19,100,329,R_00qnuzaAFAHIG77,1,1,,23,female,f,white,2,69,66,67,52,50,68,2,2,1,1,2,1,Everything looked fine to me. I thought all the tweets were respectful but didn't have much of an opinion either way on the politicians based on their short tweets. Thank you very much :),1,,tweet,citizen
+11/24/21 18:15,11/24/21 18:20,100,250,R_1CalLQNWCHb8qk4,1,1,,25,female,f,hispanic,1,42,100,70,100,100,100,2,2,2,2,2,1,,1,,vignette,citizen
+11/24/21 18:15,11/24/21 18:20,100,270,R_1OChOMQMAPx3NKX,1,1,,45,male,m,"hispanic, white",2,85,84,81,72,73,57,2,2,2,2,2,1,,1,,tweet,senator
+11/24/21 18:17,11/24/21 18:20,100,169,R_1l62u2rpVTmADpX,1,1,,21,female ,f,white,2,100,86,82,90,51,41,2,2,1,1,2,2,,1,,vignette,citizen
+11/24/21 18:12,11/24/21 18:20,100,498,R_2Tt6bpX4UOHACyI,1,1,,26,Queer,Queer,white,1,7,16,3,81,100,28,1,2,2,2,2,1,,1,,tweet,senator
+11/24/21 18:07,11/24/21 18:21,100,813,R_1lcrb0GC1Yj6ph6,1,1,,56,female,f,hispanic,4,95,76,92,50,19,10,2,2,1,2,2,1,,1,I enjoyed submitting my choice to these questions.,vignette,senator
+11/24/21 18:17,11/24/21 18:21,100,256,R_1Nx1etduX9KkgCc,1,1,,24,Female,f,white,1,60,50,46,80,76,60,2,2,2,2,2,1,,1,,vignette,citizen
+11/24/21 18:18,11/24/21 18:21,100,218,R_1gI6AP2JmrC4k9r,1,1,,24,Female,f,white,1,100,93,61,52,64,38,2,2,2,2,2,2,,1,,tweet,citizen
+11/24/21 18:17,11/24/21 18:21,100,279,R_3fCVgNRNU9wLtUp,1,1,,55,Male,m,white,3,75,75,33,86,55,85,2,2,1,2,2,1,"This ""Forming Impressions"" survey at first appears identical to previous survey. It seemed I was taking the same survey twice, and almost dropped it, figuring it was an error. Numbering the titles would help resolve this.",1,,tweet,senator
+11/24/21 18:16,11/24/21 18:21,100,313,R_vHQiKIOTja8y2wV,1,1,,27,Male,m,asian,1,91,95,95,93,97,83,2,2,1,2,2,1,,1,,vignette,senator
+11/24/21 18:19,11/24/21 18:22,100,179,R_1ierIBsnTjpgsbs,1,1,,44,male,m,white,2,8,37,39,67,87,69,2,2,1,2,2,1,,1,,tweet,senator
+11/24/21 18:16,11/24/21 18:22,100,318,R_2woTSMOHnYwFmPS,1,1,,40,female,f,white,2,95,96,95,99,90,9,2,2,2,2,2,1,,1,,vignette,senator
+11/24/21 18:19,11/24/21 18:22,100,193,R_1kN9wjvYlY0Eeu1,1,1,,40,Male,m,white,6,50,50,60,100,100,100,1,1,1,1,2,1,,1,,vignette,citizen
+11/24/21 18:18,11/24/21 18:24,100,358,R_2c5VT0DWjyElq0A,1,1,,42,female,f,white,4,83,87,75,40,79,80,1,2,1,1,1,1,,1,,tweet,senator
+11/24/21 18:20,11/24/21 18:24,100,219,R_2WTH8rWUlw8SVSD,1,1,,28,Male,m,white,4,70,90,80,80,95,65,1,2,1,2,2,1,,1,,vignette,senator
+11/24/21 18:20,11/24/21 18:24,100,251,R_3nvo0rDQcrXfFXT,1,1,,35,Female,f,white,5,80,92,51,81,64,79,1,2,1,1,1,1,Nothing to add!,1, N/A,tweet,senator
+11/24/21 18:18,11/24/21 18:24,100,409,R_1lcLzQT0EdUCOAw,1,1,,53,Female ,f,white,2,79,88,71,82,70,85,2,2,1,2,2,1,,1,,vignette,senator
+11/24/21 18:11,11/24/21 18:26,100,862,R_SGLGtYAwYPY6bW9,1,1,,25,Female ,f,"hispanic, white",1,84,86,100,93,100,82,2,2,2,2,2,1,,1,,tweet,citizen
+11/24/21 18:23,11/24/21 18:26,100,160,R_3Ep4Q7H8rrVWDIS,1,1,,28,Female,f,white,6,6,42,41,85,93,93,1,1,1,1,1,1,,1,,vignette,senator
+11/24/21 18:19,11/24/21 18:27,100,437,R_3qanwHqwonfer02,1,1,,51,female,f,white,4,50,53,51,50,53,53,1,2,2,1,1,1,"I wish you had included some middle ground answers, instead of to the extreme left or right.",1,,vignette,citizen
+11/24/21 18:03,11/24/21 18:28,100,1524,R_1OUIgF8ebQwOhIU,1,1,,45,female,f,white,6,52,50,50,55,57,53,1,1,1,1,1,1,,1,Thankyou for the study.,vignette,senator
+11/24/21 18:22,11/24/21 18:29,100,419,R_2CmpCjhHDhtjc0H,1,1,,50,female,f,white,6,50,73,80,96,100,90,1,1,1,1,1,1,,1,,tweet,senator
+11/24/21 18:25,11/24/21 18:31,100,360,R_3D1l9ml6zzCZthn,1,1,,42,Female ,f,white,3,51,69,64,44,37,53,1,1,2,1,2,1,,1,,tweet,senator
+11/24/21 18:23,11/24/21 18:32,100,491,R_1CBVuhZ9Rh8mN4b,1,1,,40,Female,f,white,4,76,68,73,96,55,25,1,2,1,2,2,1,,1,,vignette,citizen
+11/24/21 18:21,11/24/21 18:32,100,664,R_3kcBdzjRRw09NYV,1,1,,32,male,m,white,4,27,20,53,26,21,26,2,2,1,2,1,1,Was pleasantly surprised to see the mention of addressing left-wing violence.,1,,tweet,citizen
+11/24/21 18:28,11/24/21 18:32,100,283,R_2EAHjTAeVxVNtZn,1,1,,49,female,f,white,3,60,60,86,54,27,45,1,1,1,2,2,1,,1,,tweet,senator
+11/24/21 18:30,11/24/21 18:33,100,160,R_3m7VuBEpqWAZpFn,1,1,,22,Female,f,white,6,52,41,52,51,52,56,1,1,1,1,1,1,,1,,tweet,senator
+11/24/21 18:29,11/24/21 18:33,100,289,R_1hFRjStBrF9S6hX,1,1,,65,male,m,white,5,50,63,68,69,72,70,1,1,1,1,2,1,,1,,vignette,citizen
+11/24/21 18:29,11/24/21 18:34,100,317,R_20t4aarQKPiYMdH,1,1,,25,male,m,white,4,52,50,53,53,52,52,1,2,1,1,1,1,,1,,vignette,citizen
+11/24/21 18:30,11/24/21 18:36,100,349,R_2tMd7TSVGKBwz8i,1,1,,34,female,f,white,6,100,100,100,100,100,100,1,2,1,1,2,1,"I am very surprised to see a study that doesn't make it seem like republicans are nasty, hateful people. All the others do and it is upsetting. Thank you.",1,,tweet,citizen
+11/24/21 18:34,11/24/21 18:38,100,198,R_3f82vfOGeuHEQPn,1,1,,35,female,f,white,5,59,67,63,76,78,77,1,1,1,1,1,1,,1,,vignette,senator
+11/24/21 18:14,11/24/21 18:40,100,1547,R_1hXXdGaNA6K1D0b,1,1,,30,female,f,white,1,60,64,65,74,76,61,2,2,2,2,2,1,,1,,vignette,citizen
+11/24/21 18:37,11/24/21 18:40,100,208,R_3h2UmQUu6j2LwSl,1,1,,40,male,m,white,4,78,71,57,17,46,31,2,1,2,1,2,1,it seemed like all Dem statements were positive and Republican statements were negative,1,n/a,tweet,citizen
+11/24/21 18:33,11/24/21 18:42,100,491,R_3P7xsObOtd2rBZ6,1,1,,62,female,f,white,5,6,65,30,77,86,1,1,1,1,1,1,1,,1,,vignette,senator
+11/24/21 18:41,11/24/21 18:49,100,437,R_9ZczTY4EsGGWIhj,1,1,,69,Female,f,white,5,80,80,80,65,85,93,1,1,1,1,2,1,All OK,1,,tweet,senator
+11/24/21 18:48,11/24/21 18:51,100,179,R_aWcCQVBWKRFMSI1,1,1,,31,male,m,asian,4,93,93,68,98,91,81,1,2,1,1,2,1,,1,,tweet,citizen
+11/24/21 18:46,11/24/21 18:51,100,274,R_3EHdfnbgVmLlwkM,1,1,,23,female,f,white,4,55,55,78,50,41,44,1,2,2,1,2,1,,1,,vignette,citizen
+11/24/21 18:52,11/24/21 18:56,100,253,R_1QEiR5lVs1WdInH,1,1,,45,Female,f,hispanic,5,74,58,62,65,50,54,1,2,2,1,2,2,,1,,vignette,senator
+11/24/21 18:53,11/24/21 18:57,100,278,R_1GTYl1HEFGqdz2o,1,1,,30,Male,m,white,4,82,20,81,81,21,20,2,2,1,2,2,1,very good study,1,good survey,vignette,citizen
+11/24/21 18:54,11/24/21 18:58,100,246,R_2TYrSuKuk0UMDgT,1,1,,58,female,f,white,5,79,92,95,91,81,94,1,1,1,1,1,2,,1,,vignette,senator
+11/24/21 18:52,11/24/21 18:58,100,370,R_3it01OVU99yLtve,1,1,,29,male,m,hispanic,4,91,92,83,24,9,19,2,2,2,2,2,1,,1,,tweet,senator
+11/24/21 18:55,11/24/21 19:00,100,318,R_3lQWlkGIM5hhtu2,1,1,,46,Male,m,white,4,70,70,70,65,60,60,1,2,1,1,2,1,,1,,tweet,citizen
+11/24/21 18:57,11/24/21 19:01,100,239,R_2tb8ZDc3uEwLBsG,1,1,,39,Male,m,white,4,65,70,70,45,55,43,2,2,1,1,2,1,,1,,tweet,citizen
+11/24/21 18:55,11/24/21 19:03,100,457,R_3fIwikgiMlpcquR,1,1,,30,Male,m,choose not to respond,6,59,39,51,71,71,46,2,1,1,2,1,2,,2,,vignette,senator
+11/24/21 18:58,11/24/21 19:04,100,366,R_3plO9gQxc8vToBF,1,1,,23,male,m,white,5,100,90,60,100,100,100,1,2,1,1,2,1,,1,,tweet,citizen
+11/24/21 19:00,11/24/21 19:05,100,276,R_1FQcsT4ms1jpIQY,1,1,,31,Female,f,white,6,0,70,0,50,0,100,1,1,1,1,1,1,,1,,tweet,citizen
+11/24/21 19:02,11/24/21 19:05,100,156,R_1rf8VlAHxVs5o8P,1,1,,30,Male,m,asian,4,90,70,80,75,50,15,2,2,1,1,2,1,,1,,vignette,senator
+11/24/21 18:57,11/24/21 19:06,100,539,R_2CftPv6t7t8MxsO,1,1,,68,female,f,white,5,30,90,1,20,95,34,1,1,1,1,2,1,,1,,vignette,senator
+11/24/21 19:03,11/24/21 19:06,100,182,R_suNfwlVvGpcOs3T,1,1,,64,male,m,white,5,60,59,55,50,60,50,1,2,1,1,2,1,,1,,tweet,senator
+11/24/21 19:02,11/24/21 19:09,100,426,R_1OCWKMgwX0Yr2w9,1,1,,45,Male,m,white,4,89,96,90,25,40,49,1,1,1,1,2,2,Bipartisanship in Washington is something I wish was more common.,1,"I don't much like politics, it's just very divisive.",tweet,citizen
+11/24/21 19:03,11/24/21 19:10,100,458,R_2sYMydB5OyWn5vi,1,1,,77,female,f,white,5,89,87,92,82,76,87,1,1,1,1,2,1,,1,,vignette,citizen
+11/24/21 19:08,11/24/21 19:11,100,172,R_28BUOYTNpdFJeg0,1,1,,31,Male,m,white,5,82,85,78,83,62,42,2,2,1,1,2,1,,1,,tweet,senator
+11/24/21 18:59,11/24/21 19:11,100,743,R_2ONqpHcPCzQbtsN,1,1,,51,female,f,white,4,50,40,60,50,47,15,1,1,2,1,2,2,You did not give me any middle ground with the choices.  Blumenthal is not a republican,1,,vignette,senator
+11/24/21 19:08,11/24/21 19:15,100,381,R_2bZYXGWGIpoQvgI,1,1,,33,Female,f,white,5,85,75,80,34,71,87,1,2,1,1,2,1,"I like how it had questions that I could answer easily and I didn't have to put too much thought into the left side of thins, If that makes sense.",1,,tweet,citizen
+11/24/21 19:11,11/24/21 19:15,100,215,R_tMAEMGGmhiLDE4x,1,1,,28,male,m,white,4,81,13,76,93,26,21,2,2,1,2,2,1,very very good,1,good survey,vignette,senator
+11/24/21 19:14,11/24/21 19:15,100,70,R_2TowDITdtMmZU2e,1,1,,28,female,f,white,4,43,46,44,62,58,53,1,2,1,1,2,2,none,1,,tweet,senator
+11/24/21 19:12,11/24/21 19:15,100,203,R_3kaEhdm1r1SjVb3,1,1,,31,Female,f,white,5,78,64,85,62,64,45,2,1,1,1,1,2,,1,,vignette,citizen
+11/24/21 19:11,11/24/21 19:18,100,393,R_r9Fnc1VW8lKHNnP,1,1,,29,male,m,white,4,91,10,84,74,45,35,2,2,1,1,2,1,good study,1,good study,vignette,senator
+11/24/21 19:13,11/24/21 19:19,100,348,R_eQz8YvCSPpobINr,1,1,,64,female,f,white,5,89,92,97,83,88,91,1,1,1,1,2,1,,1,,tweet,citizen
+11/24/21 19:16,11/24/21 19:19,100,211,R_0VPm1kl5oW4CLmh,1,1,,24,female,f,asian,4,59,84,72,81,50,24,2,2,1,1,2,1,,1,,vignette,senator
+11/24/21 19:19,11/24/21 19:22,100,163,R_24N5KL62N66EWhS,1,1,,50,female,f,white,5,50,50,50,50,50,60,1,2,1,1,1,1,,1,,vignette,citizen
+11/24/21 19:16,11/24/21 19:27,100,647,R_sbW0Qhx9wvcv5Jf,1,1,,41,41,,black,4,78,76,97,83,91,79,1,1,1,1,1,1,,1,,tweet,citizen
+11/24/21 19:24,11/24/21 19:27,100,214,R_24Brjvm39Ax2XuO,1,1,,32,Male,m,white,4,96,94,100,67,74,83,1,1,1,1,2,1,,1,,tweet,citizen
+11/24/21 19:24,11/24/21 19:29,100,269,R_31yCAQZyUeXTCqr,1,1,,21,male,m,asian,4,77,65,81,71,70,36,2,2,1,1,2,1,,1,,vignette,senator
+11/24/21 19:20,11/24/21 19:30,100,590,R_2UhN4QiYZNckrSR,1,1,,47,Female,f,white,4,51,82,50,93,40,66,1,1,1,1,1,1,,1,,tweet,senator
+11/24/21 19:26,11/24/21 19:33,100,427,R_w77oSalgbteHzKp,1,1,,43,Male,m,white,6,25,90,85,100,100,100,1,1,1,1,2,1,"This sentence has a mistake: ""Ted believes they are wrong and that their protesting show how ignorant they are."" The verb should be ""shows"" because ""protesting"" is a singular thing. ",1,Thank you! ,vignette,citizen
+11/24/21 19:30,11/24/21 19:35,100,261,R_2aCB34Ta1DvjtPJ,1,1,,54,male,m,asian,5,65,71,82,50,62,53,1,2,1,1,2,2,,1,,tweet,senator
+11/24/21 19:04,11/24/21 19:36,100,1866,R_1PUkS2bcKyld8Uc,1,1,,19,Male,m,white,4,71,68,82,82,59,50,2,2,1,1,2,1,,1,,vignette,citizen
+11/24/21 19:35,11/24/21 19:38,100,187,R_1C7vj6qkiCd1JHt,1,1,,56,Male,m,white,4,95,66,81,79,55,77,2,1,1,1,2,2,,1,,vignette,citizen
+11/24/21 19:33,11/24/21 19:40,100,442,R_1hG86IlXTPEVHNl,1,1,,46,male,m,white,6,100,100,100,100,100,100,1,2,1,1,2,1,,1,thank you,vignette,senator
+11/24/21 19:34,11/24/21 19:41,100,374,R_UmDevdlmzAFqLfj,1,1,,72,female,f,white,4,71,60,83,40,34,40,2,2,1,1,2,1,,1,,tweet,citizen
+11/24/21 19:36,11/24/21 19:41,100,292,R_1C7xZGqwuDpzeOd,1,1,,49,Female,f,white,5,72,77,79,61,45,30,1,1,1,1,2,1,Surprised that the comments I was to answer were from all republicans and not democrats.,1,,tweet,senator
+11/24/21 19:28,11/24/21 19:43,100,899,R_uwCJmkfnlub2Lxn,1,1,,36,female,f,white,6,100,50,50,100,70,90,2,1,1,1,1,2,,1,,tweet,senator
+11/24/21 19:40,11/24/21 19:44,100,241,R_Um3PvOzhUIxw9Gh,1,1,,70,Male,m,white,6,2,25,6,88,84,86,1,1,1,1,1,1,"If you want to work with someone, you are a coward for compromising.  And we are sick of that. ",1,Good survey.  Republicans who want to compromise are low life democrats.,vignette,citizen
+11/24/21 19:43,11/24/21 19:48,100,307,R_SHjMB87eLfBODKh,1,1,,27,Female,f,white,4,85,30,100,48,70,10,2,2,1,1,2,1,I thought it was interesting to read about different people. ,1,I liked reading about the different people. ,vignette,citizen
+11/24/21 19:46,11/24/21 19:51,100,277,R_2PdLt5MOTcov508,1,1,,57,male,m,white,5,72,72,71,30,30,30,1,2,1,1,2,1,Just trying to figure out life...,1,"Not sure, treating others fairly?",tweet,senator
+11/24/21 19:47,11/24/21 19:51,100,252,R_OO0RYSH0VrKrnd7,1,1,,61,male,m,white,5,89,76,85,76,100,90,1,2,1,1,2,1,"Left wing and BLM are violent people, never get it wrong",1,,tweet,citizen
+11/24/21 19:49,11/24/21 19:53,100,255,R_9B14XpI0IvdW7pD,1,1,,24,Male,m,white,4,70,78,90,61,70,50,2,2,1,1,2,2,,1,,vignette,senator
+11/24/21 19:52,11/24/21 19:54,100,119,R_wRfBd9kzrAZ2eIh,1,1,,44,male,m,white,6,83,64,55,89,87,54,1,1,2,1,1,1,,1,,tweet,senator
+11/24/21 19:51,11/24/21 19:54,100,203,R_3m9nBsY6Ok3L2IG,1,1,,26,Male,m,white,5,80,88,83,92,86,92,1,2,1,1,1,1,,1,,vignette,citizen
+11/24/21 19:51,11/24/21 20:00,100,512,R_33xWMSBf5Qjq0zS,1,1,,53,Female,f,white,5,25,51,25,5,85,75,1,1,,1,1,1,I left the one about the distribution of vaccines blank because I don't support giving it to the elerly or minorities..  If I left any others blank it is because I support neither option.,1,,vignette,senator
+11/24/21 19:54,11/24/21 20:04,100,617,R_wRFM33szdIrko7f,1,1,,51,male,m,white,4,5,54,50,52,45,60,1,1,1,1,1,2,survey was good thank you.,1,thanks for the survey,tweet,citizen
+11/24/21 19:56,11/24/21 20:06,100,588,R_1Qm9eCeZZ9Tv4hq,1,1,,29,f,f,white,4,58,71,52,38,60,67,1,2,1,1,1,1,,1,,tweet,citizen
+11/24/21 20:05,11/24/21 20:10,100,318,R_3foE4xyOfELxK5l,1,1,,28,male,m,white,6,8,70,73,0,100,100,1,1,1,1,1,1,,1,Great Study,vignette,senator
+11/24/21 20:09,11/24/21 20:12,100,182,R_2vewbJGs7DwYdQ0,1,1,,24,male,m,white,5,46,51,43,52,65,36,1,1,1,1,1,1,,1,,tweet,citizen
+11/24/21 20:12,11/24/21 20:14,100,174,R_ZDilVzQbIwuK91v,1,1,,26,Male,m,white,4,59,56,60,60,40,40,1,2,1,1,2,1,,1,,vignette,senator
+11/24/21 20:16,11/24/21 20:18,100,132,R_2EveZmirCpDWGrq,1,1,,24,female,f,hispanic,5,92,100,70,95,100,100,1,1,1,1,1,1,,1,,vignette,citizen
+11/24/21 20:18,11/24/21 20:23,100,315,R_0TfjoMmcmtQfpyF,1,1,,44,female,f,white,4,71,73,71,73,73,75,1,1,1,1,1,1,,1,,vignette,senator
+11/24/21 20:20,11/24/21 20:23,100,215,R_WAGFqqZ7RwBNw9X,1,1,,41,female,f,"hispanic, white",4,55,55,55,50,50,50,2,2,1,1,2,1,No comments. ,1,No comments. ,tweet,citizen
+11/24/21 20:14,11/24/21 20:24,100,575,R_2bUYlIjdZsbIPN5,1,1,,57,female,f,white,5,65,100,99,58,46,78,1,1,1,1,2,1,Opinion towards Cruz is biased.  Did not like him leaving TX during ice storm earlier this year ton family vacation while constituents suffering.,1,,tweet,senator
+11/24/21 20:15,11/24/21 20:24,100,542,R_3phzfd1ixpKi9hX,1,1,,50,male,m,white,5,80,85,90,80,80,85,1,2,1,1,2,1,Thank You.,1,It was an interesting survey.,tweet,senator
+11/24/21 20:10,11/24/21 20:27,100,992,R_D6PzMjQxCIA8hI5,1,1,,62,female,f,white,6,20,81,50,100,100,100,1,1,1,1,2,1,It seemed to be fairly unbiased,1,,vignette,citizen
+11/24/21 20:35,11/24/21 20:41,100,358,R_1N8tpVuqLMTl3di,1,1,,72,male,m,hispanic,4,92,83,91,71,19,29,2,2,1,1,2,1,,1,,vignette,senator
+11/24/21 20:34,11/24/21 20:44,100,582,R_24BjIY2Y31Mr47V,1,1,,40,Male,m,white,4,80,73,67,57,30,40,1,2,1,1,1,1,I honestly don‚Äôt like negativity in politics so I appreciated the bipartisan talk the most. ,1,,tweet,citizen
+11/24/21 20:39,11/24/21 20:46,100,451,R_2npP5crFIeRUWC5,1,1,,47,Female ,f,white,5,60,74,61,95,90,51,1,1,1,1,2,1,,1,,vignette,citizen
+11/24/21 20:31,11/24/21 20:47,100,979,R_27rIiUw0aA0pxdI,1,1,,39,female,f,white,4,50,82,51,52,73,64,1,1,1,1,2,1,n/a,1,,tweet,senator
+11/24/21 20:54,11/24/21 20:57,100,162,R_1GwD9FqAfbk8TUN,1,1,,36,male,m,white,5,50,50,40,92,93,75,1,1,1,1,1,1,,1,,vignette,citizen
+11/24/21 20:50,11/24/21 20:57,100,418,R_32J8WVpN2CVtpWF,1,1,,44,Male,m,white,5,77,0,75,71,100,100,1,1,1,1,1,1,,1,,tweet,citizen
+11/24/21 20:54,11/24/21 20:57,100,154,R_2dFPNtHNaCJqAsa,1,1,,30,male,m,white,5,66,75,77,83,91,80,1,1,1,1,2,1,Thanks!,1,,tweet,senator
+11/24/21 20:56,11/24/21 20:58,100,164,R_AzH62s5GPIGmpIR,1,1,,41,Male,m,white,4,6,65,50,61,100,91,1,1,1,1,1,1,,1,,vignette,senator
+11/24/21 20:52,11/24/21 20:59,100,403,R_2wG3TzNqPeudYnZ,1,1,,33,Female,f,white,4,100,50,100,80,40,30,2,2,1,1,2,2,It was interesting that all the senators showcased were Republican.,1,The survey was a nice snapshot of different senators.,vignette,senator
